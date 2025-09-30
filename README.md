@@ -43,7 +43,7 @@ WPFrame/
 
 Clone this repository inside your WordPress wp-content/plugins directory:
 
-git clone https://github.com/your-username/WPFrame.git
+git clone [https://github.com/your-username/WPFrame.git](https://github.com/NishaYadav-prog/wordpress-project)
 
 
 Activate the plugin from your WordPress Admin → Plugins section.
